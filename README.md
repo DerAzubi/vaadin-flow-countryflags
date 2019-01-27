@@ -1,6 +1,9 @@
 # Vaadin-Flow Countryflags
 195+ Country Flags / Icons for Vaadin flow 12.0.4+
 
+Credits to Muharrem Şenyıl
+https://freebiesbug.com/psd-freebies/100-flat-flag-psd-icons/
+
 # How to use
 
 CountryFlags.GERMANY.create(); //To create a German flag
